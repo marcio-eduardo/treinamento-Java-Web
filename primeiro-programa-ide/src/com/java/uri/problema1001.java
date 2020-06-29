@@ -13,6 +13,7 @@ public class problema1001 {
 		a = sc.nextInt();
 		b = sc.nextInt();
 		x = a + b;
+		sc.close();
 		
 		System.out.println(x);
 		
