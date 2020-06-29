@@ -1,4 +1,4 @@
-package com.java.executavel;
+package com.java.curso;
 
 public class HelloWorld {
 
