@@ -19,8 +19,10 @@ public class EntradaDados {
 		
 		double resto = qtdCarros % qtdPessoas;
 		
-		
+		//abre um JOption message
+		JOptionPane.showMessageDialog(null,"A divisão para cada pessoa foi de " + divisao + " carros e sobrou " + resto + " carros.");
 		System.out.println("A divisão para cada pessoa foi de " + divisao + " carros e sobrou " + resto + " carros. ");
+		
 
 	}
 
